@@ -1,0 +1,12 @@
+﻿{
+  "Version": "13.7.0",
+  "Name": "femboyhost.cf",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "www.femboyhost.cf/Upload.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "secret": "k763ns96xh"
+  },
+  "FileFormName": "sharex"
+}
