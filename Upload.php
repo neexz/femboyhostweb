@@ -1,6 +1,6 @@
 <?php
 $secret_key = "k763ns96xh"; //Set This As Your Secret Key So Only You Have Access (Basically A Password)
-$sharexdir = "u/"; //This Is The File Directory Of Where The Images While Go
+$sharexdir = ""; //This Is The File Directory Of Where The Images While Go
 $domain_url = 'http://www.femboyhost.cf/'; //If You Have A SSL Certificate Add a S To Your Http
 //If You Dont Have A SSL Certificate Then Keep It As Http (000webhost Has A Free SSL Certificate)
 $lengthofstring = 20; //Length Of The File You Will Upload's Name
